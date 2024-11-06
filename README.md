@@ -5,5 +5,4 @@
 - Chương đầu load sẽ hơi lâu, nên click vào màn hình để load quảng cáo sẽ load nhanh hơn, nếu back về mục lục mà vẫn chưa load được nội dung thì tắt đi chạy lại code. Load được chương đầu thì các chương sau sẽ load nhanh và ổn định hơn.
 
 ## Hướng dẫn bằng video:
-{@youtube: https://youtu.be/YHkUlmGz5z4}
-
+[![Link video]](https://youtu.be/YHkUlmGz5z4)
